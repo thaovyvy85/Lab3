@@ -3,7 +3,7 @@ import Card from "./Card";
 import Accordion from "./Accordion";
 import Counter from "./Counter";
 import Login from "./Login";
-import TodoApp from "./TodoApp";
+import TodoApp from "./ToDoApp";
 import "./App.css";
 
 function App() {
